@@ -2,7 +2,7 @@
 
 ランダムにクリッピングを行い、円状にランダムに配置するスクリプトです。
 
-![thumbnail](https://github.com/Aodaruma/ClipFigures/blob/main/ClipFigures/clipfigure.png)
+![thumbnail](https://github.com/Aodaruma/ClipFigures/blob/main/clipfigure.png)
 
 現在は **version 1.01** が最新です。
 
